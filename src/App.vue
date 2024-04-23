@@ -1,1 +1,5 @@
-Template
+<template>
+  <div>
+    test
+  </div>
+</template>
